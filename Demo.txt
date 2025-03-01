@@ -1,0 +1,3 @@
+Hello world!
+I am testing Write function in python
+This is the appended text
